@@ -1,0 +1,4 @@
+NP=subj [. VBD=verb & !,DO]
+
+insert (DO Did) $+ subj
+relabel verb VERBBASE

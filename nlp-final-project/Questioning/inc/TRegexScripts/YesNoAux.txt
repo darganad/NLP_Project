@@ -1,0 +1,4 @@
+NP=subj .. MD=modal
+
+replace modal subj
+replace subj modal

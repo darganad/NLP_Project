@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#used to give scripts access to libraries
+export PYTHONPATH=$PYTHONPATH:/var/nlp/spring16/teams/Nietzsche/nlp-final-project/Libraries
+export PYTHONPATH=$PYTHONPATH:/var/nlp/spring16/teams/Nietzsche/nlp-final-project/Answering
+export CLASSPATH=$CLASSPATH:$CORENLP_3_6_0_PATH/stanford-corenlp-3.6.0-models.jar
+python nlp-final-project/Answering/answer_main.py "$1" "$2" 2> /dev/null

@@ -1,0 +1,131 @@
+(ROOT
+  (S (CC And)
+    (NP (PRP$ his) (NN laughter))
+    (VP (VBD was)
+      (ADVP (RB always))
+      (ADJP (JJ derisive)
+        (CC and)
+        (JJ full))
+      (PP (IN of)
+        (NP (NN malice))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADJP (JJ Unable)
+        (S
+          (VP (TO to)
+            (VP (VB perform)
+              (PP (IN without)
+                (NP
+                  (NP (NNP Svengali) (POS 's))
+                  (NN help))))))))
+    (, ,)
+    (NP (NNP Trilby))
+    (VP (VBZ becomes)
+      (ADJP (VBN entranced)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN novel))
+    (VP (VBZ is)
+      (ADVP (RBR less))
+      (NP
+        (NP (DT a) (NN discussion))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN relationship))
+            (PP (IN between)
+              (NP (NNP Svengali)
+                (CC and)
+                (NNP Trilby))))))
+      (PP (IN than)
+        (NP
+          (NP (DT an) (NN evocation))
+          (PP (IN of)
+            (NP
+              (NP (`` ``) (NNP Bohemian) ('' '') (NNP Paris))
+              (PP (IN during)
+                (NP (DT the) (NNS 1850s))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Svengali))
+      (PRN (-LRB- -LRB-)
+        (FRAG
+          (ADJP (RB /) (JJ svɛŋˈɡɑːli))
+          (: /))
+        (-RRB- -RRB-)))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ fictional) (NN character))
+        (PP (IN in)
+          (NP
+            (NP (NNP George) (NNP du) (NNP Maurier) (POS 's))
+            (CD 1895) (NN novel) (NN Trilby)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP -LSB-) (NNP Svengali) (NNP -RSB-))
+    (VP
+      (VP (MD would) (RB either)
+        (VP (VB fawn)
+          (CC or)
+          (VB bully)))
+      (, ,)
+      (CC and)
+      (VP (MD could)
+        (VP (VB be)
+          (ADJP (RB grossly) (JJ impertinent)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN novel)))
+    (, ,)
+    (NP (NNP Svengali))
+    (VP (VBZ transforms)
+      (NP (NNP Trilby))
+      (PP (IN into)
+        (NP (DT a) (JJ great) (NN singer)))
+      (PP (IN by)
+        (S
+          (VP (VBG using)
+            (NP (NNS hypnosis))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Svengali))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN man))
+        (PP (IN of)
+          (NP (NNP Eastern) (JJ European) (NN origin)))
+        (SBAR
+          (WHNP (WP who))
+          (S
+            (VP
+              (VP (VBZ seduces))
+              (, ,)
+              (VP (VBZ dominates))
+              (CC and)
+              (VP
+                (VP (VBD exploits)
+                  (NP
+                    (NP (NNP Trilby))
+                    (, ,)
+                    (NP (DT a) (JJ young) (JJ English) (NN girl))
+                    (, ,)))
+                (CC and)
+                (VP (VBZ makes)
+                  (NP (PRP her)))
+                (NP (DT a) (JJ famous) (NN singer))))))))
+    (. .)))
+
